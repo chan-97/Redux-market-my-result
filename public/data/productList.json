@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "product_name": "관리 잘해야되는 하얀 슬랙스",
+      "product_name": "새하얀 슬랙스",
       "price": 28000,
       "product_img": "https://image.brandi.me/cproduct/2020/11/18/12187270_1605665330_image1_M.jpg",
       "is_checked": "false"
@@ -37,7 +37,7 @@
     },
     {
       "id": 6,
-      "product_name": "어좁이 그레이색 외투",
+      "product_name": "포근한 그레이색 외투",
       "price": 99000,
       "product_img": "https://image.brandi.me/cproduct/2020/11/03/14819779_1604406041_image1_M.jpg",
       "is_checked": "false"
