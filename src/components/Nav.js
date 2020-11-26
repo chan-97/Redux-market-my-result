@@ -10,8 +10,9 @@ export default function Nav () {
     return (
         <nav className="nav">
             <span className="nav-title" onClick={() => history.push("/")}>Redux-market</span>
+            <span className="menu-products" onClick={() => history.push("/products")}>products</span>
             <i onClick={() => history.push("/cart")} className="fas fa-shopping-cart">
-            <div className="cart-amount">{cart.length}</div>
+                <div className="cart-amount">{cart.length}</div>
             </i>
         </nav>
     );

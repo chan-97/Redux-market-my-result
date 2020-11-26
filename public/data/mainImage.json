@@ -1,0 +1,20 @@
+{
+  "mainImages": [
+    {
+      "id": 1,
+      "src": "https://redux.js.org/img/redux-logo-landscape.png"
+    },
+    {
+      "id": 2,
+      "src": "https://res.cloudinary.com/practicaldev/image/fetch/s--sDkoChiI--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/t50fxf1mfyf3d9vs3c78.jpg"
+    },
+    {
+      "id": 3,
+      "src": "https://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
+    },
+    {
+      "id": 4,
+      "src": "https://i.pinimg.com/originals/22/ec/8c/22ec8cc9c0d031e50063d36ab303f173.jpg"
+    }
+  ]
+}

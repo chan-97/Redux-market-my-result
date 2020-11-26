@@ -1,18 +1,30 @@
 .nav {
+  position: fixed;
+  top: 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: calc(100% - 300px);
   height: 50px;
-  margin-bottom: 50px;
   padding: 0 150px;
   background-color: #132743;
   color: #fff;
   font-size: 20px;
   font-weight: 700;
+  z-index: 5;
 }
 
 .nav-title {
   cursor: pointer;
+}
+
+.menu-products {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.menu-products:hover {
+  color: #edc988;
 }
 
 .fas {
