@@ -1,6 +1,6 @@
-# Redux market
+# Redux market my result
 
-해당 작업물은 redux 를 공부하기 위해 만든 예제입니다.
+해당 작업물은 redux 를 공부하기 위해 만든 예제의 결과물입니다.
 
 [구현 목표]
 
